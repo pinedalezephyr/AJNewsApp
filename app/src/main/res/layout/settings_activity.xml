@@ -5,7 +5,7 @@
 
 <fragment
 
-    android:name="com.example.android.quakereport.SettingsActivity$EarthquakePreferenceFragment"
+    android:name="com.example.android.aj_newsapp.SettingsActivity$NewsPreferenceFragment"
 
     xmlns:android="http://schemas.android.com/apk/res/android"
 
@@ -15,6 +15,6 @@
 
     android:layout_height="match_parent"
 
-    tools:context="com.example.android.quakereport.SettingsActivity">
+    tools:context="com.example.android.aj_newsapp.SettingsActivity">
 
 </fragment>
